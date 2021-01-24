@@ -1,0 +1,6 @@
+C:\Users\Administrateur\source\repos\Demo\DDB\bin\Debug\DDB.dacpac
+C:\Users\Administrateur\source\repos\Demo\DDB\bin\Debug\DDB.dll
+C:\Users\Administrateur\source\repos\Demo\DDB\bin\Debug\DDB.pdb
+C:\Users\Administrateur\source\repos\Demo\DDB\obj\Debug\DDB.dll
+C:\Users\Administrateur\source\repos\Demo\DDB\obj\Debug\DDB.pdb
+C:\Users\Administrateur\source\repos\Demo\DDB\obj\Debug\DDB.sqlprojAssemblyReference.cache

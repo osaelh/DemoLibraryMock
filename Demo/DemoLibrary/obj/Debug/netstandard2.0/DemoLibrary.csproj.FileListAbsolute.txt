@@ -1,0 +1,10 @@
+C:\Users\Administrateur\source\repos\Demo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.deps.json
+C:\Users\Administrateur\source\repos\Demo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.dll
+C:\Users\Administrateur\source\repos\Demo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.pdb
+C:\Users\Administrateur\source\repos\Demo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\Demo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\Demo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Demo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.dll
+C:\Users\Administrateur\source\repos\Demo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.pdb
+C:\Users\Administrateur\source\repos\Demo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.dll.config
+C:\Users\Administrateur\source\repos\Demo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csprojAssemblyReference.cache
